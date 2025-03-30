@@ -47,4 +47,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: varshith_29/devops_github_actions:latest
+          tags: varshithveluru/devops_github_actions:latest
